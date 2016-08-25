@@ -4,7 +4,8 @@
 > I figure if we are going to do this we should do it right.  We could just take the easy
 > way out and dump a bunch of crap onto the page but I would much rather we all learn something from this.
 > We are going to do this using a prebuilt MVC framework like the professionals do.  There is A LOT that goes
-> into this so if you can put aside 2 hours to watch the laravel videos I will bring to class it would be good.
+> into this so if you can put aside 2 hours to watch the laravel videos I will bring to class or just watch some of the 
+> online tutorials go for it.
 > If you aren't confused by what you watch then you're good, if you are, you're good.  Shits deep.
 
 ## Links
