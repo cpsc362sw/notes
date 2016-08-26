@@ -1,7 +1,9 @@
 # What is software?
 
+
+*Jump-to:*
 [Software Applications](#SoftwareApplications)<br>
-[Legacy Software](#LegacySoftware)<br>
+[Legacy Software](#LegacySoftware)<br><br>
 
 * Software is: information transporter.
 	1. transfer personal data.
@@ -53,7 +55,7 @@
 	* Robotics
 	* Expert system
 	* Pattern Recognition
-	
+
 <br><br>
 ## <a id="LegacySoftware"></a> Legacy Software
 * Costly to maintain
