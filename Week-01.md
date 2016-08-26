@@ -1,7 +1,7 @@
 # What is software?
 
-[Software Applications](#SoftwareApplications)
-[Legacy Software](#LegacySoftware)
+[Software Applications](#SoftwareApplications)<br>
+[Legacy Software](#LegacySoftware)<br>
 
 * Software is: information transporter.
 	1. transfer personal data.
@@ -23,7 +23,7 @@
 | doesn't wear out | wears out     |
 | deteriorate      | phys damage   |
 | no spare parts   | spare parts   |
-
+<br><br>
 
 ## <a id="SoftwareApplications"></a> Software Applications
 * System Softweare
@@ -53,7 +53,8 @@
 	* Robotics
 	* Expert system
 	* Pattern Recognition
-
+	
+<br><br>
 ## <a id="LegacySoftware"></a> Legacy Software
 * Costly to maintain
 * Risky to evolve
