@@ -13,3 +13,4 @@
 * [Laravel](https://laravel.com)
 * [Laracasts](https://laracasts.com)
 * [MVC-Pattern](https://www.sitepoint.com/the-mvc-pattern-and-php-1/)
+* [Bitnami Wampstack](https://bitnami.com/stack/wamp)
