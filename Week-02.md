@@ -28,4 +28,15 @@
 	* software or part of software
 	* incremental changes, piece by piece.
 		* waterfall
-		
+
+
+## Umbrella Activities
+	* software project tracking and control
+		* progress and plan
+	* risk management
+	* software quality assurance
+	* technical reviews (uncover errors)
+	* measurement
+	* software configuration management
+	* reusability management
+	* work product preparation and production
